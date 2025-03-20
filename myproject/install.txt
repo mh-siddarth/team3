@@ -1,0 +1,8 @@
+venv\Scripts\activate
+
+python manage.py runserver
+
+celery -A django_celery_project.celery worker --pool=solo -l info
+ 
+
+ celery -A django_celery_project beat -l INFO

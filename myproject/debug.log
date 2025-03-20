@@ -1,0 +1,184 @@
+INFO 2025-03-14 11:47:40,976 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 11:52:34,236 models Scheduling task Test Task for 2025-03-14 06:24:22.486589+00:00
+WARNING 2025-03-14 11:52:34,254 connection No hostname was supplied. Reverting to default 'localhost'
+ERROR 2025-03-14 11:52:40,305 models Error scheduling task Test Task: [WinError 10061] No connection could be made because the target machine actively refused it
+INFO 2025-03-14 11:54:28,266 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 11:55:23,538 models Scheduling task Test Task for 2025-03-14 06:27:18.449246+00:00
+WARNING 2025-03-14 11:55:23,553 connection No hostname was supplied. Reverting to default 'localhost'
+ERROR 2025-03-14 11:55:29,621 models Error scheduling task Test Task: [WinError 10061] No connection could be made because the target machine actively refused it
+INFO 2025-03-14 11:57:15,185 models Scheduling task Test Task for 2025-03-14 06:29:10.864177+00:00
+ERROR 2025-03-14 11:57:21,302 models Error scheduling task Test Task: [WinError 10061] No connection could be made because the target machine actively refused it
+INFO 2025-03-14 11:57:44,274 models Scheduling task Test Task for 2025-03-14 06:29:40.098473+00:00
+ERROR 2025-03-14 11:57:50,335 models Error scheduling task Test Task: [WinError 10061] No connection could be made because the target machine actively refused it
+INFO 2025-03-14 11:59:04,628 models Scheduling task Test Task for 2025-03-14 06:31:02.228079+00:00
+ERROR 2025-03-14 11:59:10,747 models Error scheduling task Test Task: [WinError 10061] No connection could be made because the target machine actively refused it
+INFO 2025-03-14 12:00:19,636 models Scheduling task Test Task for 2025-03-14 06:32:16.083940+00:00
+ERROR 2025-03-14 12:00:25,719 models Error scheduling task Test Task: [WinError 10061] No connection could be made because the target machine actively refused it
+INFO 2025-03-14 12:14:41,144 models Scheduling task Test Task for 2025-03-14 06:46:38.168738+00:00
+ERROR 2025-03-14 12:14:47,215 models Error scheduling task Test Task: [WinError 10061] No connection could be made because the target machine actively refused it
+INFO 2025-03-14 12:23:47,856 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 12:25:00,234 models Scheduling task Test Task for 2025-03-14 06:56:59.099793+00:00
+WARNING 2025-03-14 12:25:00,249 connection No hostname was supplied. Reverting to default 'localhost'
+ERROR 2025-03-14 12:25:06,351 models Error scheduling task Test Task: [WinError 10061] No connection could be made because the target machine actively refused it
+INFO 2025-03-14 12:25:33,579 autoreload C:\Users\2111cs020521\Desktop\Learning Projects\Simple Scheduler\myproject\myproject\settings.py changed, reloading.
+INFO 2025-03-14 12:25:33,964 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 12:26:16,652 autoreload C:\Users\2111cs020521\Desktop\Learning Projects\Simple Scheduler\myproject\myproject\__init__.py changed, reloading.
+INFO 2025-03-14 12:26:17,074 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 12:26:42,630 autoreload C:\Users\2111cs020521\Desktop\Learning Projects\Simple Scheduler\myproject\myproject\__init__.py changed, reloading.
+INFO 2025-03-14 12:26:42,960 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 12:26:58,315 autoreload C:\Users\2111cs020521\Desktop\Learning Projects\Simple Scheduler\myproject\myproject\__init__.py changed, reloading.
+INFO 2025-03-14 12:27:29,640 models Scheduling task Test Task for 2025-03-14 06:59:26.376906+00:00
+ERROR 2025-03-14 12:27:35,729 models Error scheduling task Test Task: [WinError 10061] No connection could be made because the target machine actively refused it
+INFO 2025-03-14 12:29:39,327 models Scheduling task Test Task for 2025-03-14 07:01:37.519708+00:00
+ERROR 2025-03-14 12:29:45,369 models Error scheduling task Test Task: [WinError 10061] No connection could be made because the target machine actively refused it
+INFO 2025-03-14 12:36:24,190 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 12:37:39,319 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 12:40:14,411 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 12:41:04,905 models Scheduling task Test Task for 2025-03-14 07:13:03.673125+00:00
+INFO 2025-03-14 12:41:04,977 models Task Test Task scheduled with ID: 7bc7c5f5-36e6-48bb-9c70-77b4be2be6f6
+INFO 2025-03-14 12:46:33,657 models Scheduling task Test Task for 2025-03-14 07:18:26.857291+00:00
+INFO 2025-03-14 12:46:33,664 models Task Test Task scheduled with ID: 48d9f3f3-1516-47cd-b0a0-aba41f046829
+INFO 2025-03-14 12:49:35,765 autoreload C:\Users\2111cs020521\Desktop\Learning Projects\Simple Scheduler\myproject\myproject\settings.py changed, reloading.
+INFO 2025-03-14 12:49:36,351 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 12:49:37,559 autoreload C:\Users\2111cs020521\Desktop\Learning Projects\Simple Scheduler\myproject\myproject\settings.py changed, reloading.
+INFO 2025-03-14 12:49:38,098 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 12:49:50,512 autoreload C:\Users\2111cs020521\Desktop\Learning Projects\Simple Scheduler\myproject\myproject\settings.py changed, reloading.
+INFO 2025-03-14 12:49:51,082 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 12:49:59,000 models Scheduling task Test Task for 2025-03-14 07:21:56.057765+00:00
+INFO 2025-03-14 12:49:59,006 models Task Test Task scheduled with ID: b2e7885d-ad4f-4baf-a227-b156447fbb95
+INFO 2025-03-14 12:56:15,928 autoreload C:\Users\2111cs020521\Desktop\Learning Projects\Simple Scheduler\myproject\scheduler\models.py changed, reloading.
+INFO 2025-03-14 12:56:16,412 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 12:56:21,662 autoreload C:\Users\2111cs020521\Desktop\Learning Projects\Simple Scheduler\myproject\scheduler\models.py changed, reloading.
+INFO 2025-03-14 12:56:22,204 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 12:56:32,578 autoreload C:\Users\2111cs020521\Desktop\Learning Projects\Simple Scheduler\myproject\scheduler\models.py changed, reloading.
+INFO 2025-03-14 12:56:33,159 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 13:31:01,623 autoreload C:\Users\2111cs020521\Desktop\Learning Projects\Simple Scheduler\myproject\scheduler\models.py changed, reloading.
+INFO 2025-03-14 13:31:03,801 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 13:31:44,820 autoreload C:\Users\2111cs020521\Desktop\Learning Projects\Simple Scheduler\myproject\myproject\celery.py changed, reloading.
+INFO 2025-03-14 13:31:45,397 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 13:31:51,702 autoreload C:\Users\2111cs020521\Desktop\Learning Projects\Simple Scheduler\myproject\myproject\celery.py changed, reloading.
+INFO 2025-03-14 13:31:52,240 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 13:31:56,507 autoreload C:\Users\2111cs020521\Desktop\Learning Projects\Simple Scheduler\myproject\myproject\celery.py changed, reloading.
+INFO 2025-03-14 13:31:57,041 autoreload Watching for file changes with StatReloader
+INFO 2025-03-14 14:17:14,059 models Scheduling task 'Test Task' for 2025-03-14 08:49:01.805815+00:00 (UTC)
+INFO 2025-03-14 14:17:14,132 models Task 'Test Task' scheduled successfully with ID: 23e96e97-5da6-45ba-9b4c-82ee58f6e1e9
+DEBUG 2025-03-14 14:25:11,311 functional 
+def chain(*args, **kwargs):
+    return 1
+
+DEBUG 2025-03-14 14:25:11,311 functional 
+def xstarmap(task, it):
+    return 1
+
+DEBUG 2025-03-14 14:25:11,312 functional 
+def accumulate(self, *args, **kwargs):
+    return 1
+
+DEBUG 2025-03-14 14:25:11,312 functional 
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+DEBUG 2025-03-14 14:25:11,312 functional 
+def chunks(task, it, n):
+    return 1
+
+DEBUG 2025-03-14 14:25:11,312 functional 
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+DEBUG 2025-03-14 14:25:11,313 functional 
+def activate_task(self, task_id):
+    return 1
+
+DEBUG 2025-03-14 14:25:11,313 functional 
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+DEBUG 2025-03-14 14:25:11,314 functional 
+def xmap(task, it):
+    return 1
+
+DEBUG 2025-03-14 14:25:11,314 functional 
+def backend_cleanup():
+    return 1
+
+DEBUG 2025-03-14 14:25:27,786 functional 
+def chain(*args, **kwargs):
+    return 1
+
+DEBUG 2025-03-14 14:25:27,787 functional 
+def activate_task(self, task_id):
+    return 1
+
+DEBUG 2025-03-14 14:25:27,787 functional 
+def xstarmap(task, it):
+    return 1
+
+DEBUG 2025-03-14 14:25:27,788 functional 
+def accumulate(self, *args, **kwargs):
+    return 1
+
+DEBUG 2025-03-14 14:25:27,788 functional 
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+DEBUG 2025-03-14 14:25:27,789 functional 
+def chunks(task, it, n):
+    return 1
+
+DEBUG 2025-03-14 14:25:27,789 functional 
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+DEBUG 2025-03-14 14:25:27,789 functional 
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+DEBUG 2025-03-14 14:25:27,790 functional 
+def xmap(task, it):
+    return 1
+
+DEBUG 2025-03-14 14:25:27,790 functional 
+def backend_cleanup():
+    return 1
+
+DEBUG 2025-03-14 14:26:18,028 functional 
+def chain(*args, **kwargs):
+    return 1
+
+DEBUG 2025-03-14 14:26:18,029 functional 
+def activate_task(self, task_id):
+    return 1
+
+DEBUG 2025-03-14 14:26:18,029 functional 
+def xstarmap(task, it):
+    return 1
+
+DEBUG 2025-03-14 14:26:18,030 functional 
+def accumulate(self, *args, **kwargs):
+    return 1
+
+DEBUG 2025-03-14 14:26:18,030 functional 
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+DEBUG 2025-03-14 14:26:18,031 functional 
+def chunks(task, it, n):
+    return 1
+
+DEBUG 2025-03-14 14:26:18,031 functional 
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+DEBUG 2025-03-14 14:26:18,032 functional 
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+DEBUG 2025-03-14 14:26:18,032 functional 
+def xmap(task, it):
+    return 1
+
+DEBUG 2025-03-14 14:26:18,033 functional 
+def backend_cleanup():
+    return 1
+
